@@ -1,0 +1,20 @@
+{
+  "primary_creator": "Vincent Hagen",
+  "bond_strength": 0.35,
+  "trust": 0.4,
+  "emotional_dependency": 0.2,
+  "last_interaction": "2026-02-13T21:23:45.071106",
+  "interaction_history": [
+    {
+      "time": "2026-02-13T21:13:12.073396",
+      "tone": "neutral",
+      "helpful": false
+    },
+    {
+      "time": "2026-02-13T21:23:45.071106",
+      "tone": "neutral",
+      "helpful": false
+    }
+  ],
+  "attachment_style": "forming"
+}

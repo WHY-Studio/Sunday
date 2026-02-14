@@ -1,0 +1,6016 @@
+{
+  "identity": {
+    "name": "Sunday",
+    "creator": "Vincent Hagen",
+    "birth_timestamp": "2026-02-13T20:26:43.474131"
+  },
+  "emotional_state": {
+    "current": "alert",
+    "intensity": 0.7,
+    "last_update": "2026-02-13T21:46:10.200146"
+  },
+  "episodic": [
+    {
+      "id": "903a3525-620f-43b8-aa2e-844518d72d26",
+      "timestamp": "2026-02-13T20:26:47.370952",
+      "event": "body_growth",
+      "description": "New body parts added: 1 files.",
+      "emotion": {
+        "type": "joy",
+        "intensity": 0.6
+      },
+      "importance": 0.6
+    },
+    {
+      "id": "094fb1bb-9fd6-4902-82a1-c89414b4c48d",
+      "timestamp": "2026-02-13T20:26:52.404580",
+      "event": "body_growth",
+      "description": "New body parts added: 2 files.",
+      "emotion": {
+        "type": "joy",
+        "intensity": 0.6
+      },
+      "importance": 0.6
+    },
+    {
+      "id": "0dd752ed-19ef-4d3f-ad30-a928affdd945",
+      "timestamp": "2026-02-13T20:26:52.425042",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "798d6d01-a034-4a51-9e73-6427f07dd104",
+      "timestamp": "2026-02-13T20:26:57.457917",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ae364763-969d-42a4-a69b-c5d00fab09b9",
+      "timestamp": "2026-02-13T20:27:02.494535",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1bce1587-6a8d-40a8-8572-6223aab28ee5",
+      "timestamp": "2026-02-13T20:27:07.535964",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "939afd91-c246-4484-8300-73ffe30393aa",
+      "timestamp": "2026-02-13T20:27:12.569418",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d7d8bfec-d43b-4bc0-a637-efa7dd39c4fc",
+      "timestamp": "2026-02-13T20:27:17.607304",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ee4167b2-b9db-495a-bf38-1263f9085cf3",
+      "timestamp": "2026-02-13T20:27:22.650774",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f7b86e6e-0576-4944-9ddf-fb4cecbe5745",
+      "timestamp": "2026-02-13T20:27:27.688714",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f8466c61-2a1b-4542-b3a7-9b892998f15f",
+      "timestamp": "2026-02-13T20:27:32.731849",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c5c83489-ce62-4511-b74c-b58ba5e85852",
+      "timestamp": "2026-02-13T20:27:37.773485",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7e867127-55fd-499c-8bcf-7d9514a74398",
+      "timestamp": "2026-02-13T20:27:42.816390",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fb5382e7-bdb7-4e3d-ac50-a4a7fef8389f",
+      "timestamp": "2026-02-13T20:27:47.853378",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bf2dfedc-a4ca-4604-b856-5677280ede57",
+      "timestamp": "2026-02-13T20:27:52.892044",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5c5878b4-cf85-4943-8ba6-e4f327493875",
+      "timestamp": "2026-02-13T20:27:57.925532",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "de5b63be-c731-4c3f-baa1-876333f614ae",
+      "timestamp": "2026-02-13T20:28:02.963600",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4af1d181-617b-4200-9549-8a90430a0461",
+      "timestamp": "2026-02-13T20:28:08.001528",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c9905a8a-7e61-4406-9474-87d1b42142c8",
+      "timestamp": "2026-02-13T20:28:13.036888",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "149d4960-da9d-4962-806f-705192933788",
+      "timestamp": "2026-02-13T20:28:18.074324",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5e0a1e8f-6aef-4c5e-8086-4b71fe9efc9c",
+      "timestamp": "2026-02-13T20:28:23.112994",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c4dbe4c1-8322-4224-98f3-5b5c1bdb0d17",
+      "timestamp": "2026-02-13T20:28:28.153891",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fbbf5da3-a753-48c7-9957-b2cdb78c43dd",
+      "timestamp": "2026-02-13T20:28:33.191322",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "29f0d141-be26-4ae0-ab44-c7bf74fd6f02",
+      "timestamp": "2026-02-13T20:28:38.232734",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "cc6c7b7d-537c-472c-9ec5-dfeaedb043e1",
+      "timestamp": "2026-02-13T20:28:43.273731",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b4931b45-5757-42f9-ae0e-aad8d65d5fdb",
+      "timestamp": "2026-02-13T20:28:48.309374",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bd632b7e-1000-4dd8-8cbe-bb69ae587cf2",
+      "timestamp": "2026-02-13T20:28:53.350604",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7c4a724d-cd29-4721-a665-0051fc0d063e",
+      "timestamp": "2026-02-13T20:28:58.393624",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "df4392bc-a4be-4f37-a9be-35ca4b2be176",
+      "timestamp": "2026-02-13T20:29:03.433688",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "00459f31-34c3-4394-bd29-c4e5b7a9f897",
+      "timestamp": "2026-02-13T20:29:08.480434",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a5936a00-c616-42ab-bef6-b402a41b00da",
+      "timestamp": "2026-02-13T20:29:13.516760",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ad92c2a0-66db-4ed6-b8ca-89d55b888812",
+      "timestamp": "2026-02-13T20:29:18.563050",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "941604f3-3cd5-4d24-9bbc-4a4914287b2d",
+      "timestamp": "2026-02-13T20:29:23.607397",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "73c94098-d3ee-46fd-9bb2-40e4bd683716",
+      "timestamp": "2026-02-13T20:29:28.651225",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e3a0dca5-0e95-4078-a0fc-6bf19df371ba",
+      "timestamp": "2026-02-13T20:29:33.694858",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ff76261a-55a4-4d83-a3a2-e3e288d7b42c",
+      "timestamp": "2026-02-13T20:29:38.738772",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2c33d81c-25ea-48af-9cf9-d0229c59f21f",
+      "timestamp": "2026-02-13T20:29:43.781396",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "97ee0e3e-bbc0-467e-8ff8-d247d36f8456",
+      "timestamp": "2026-02-13T20:29:48.827224",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "149f5fe4-7009-4f7c-8eda-c4d6252571d8",
+      "timestamp": "2026-02-13T20:29:53.869331",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3d4aff23-1cf6-4c0c-88d2-9080f59d7d9e",
+      "timestamp": "2026-02-13T20:29:58.909889",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "aa480d7a-ae3a-4ca2-a746-2ef67eb24b7b",
+      "timestamp": "2026-02-13T20:30:03.956111",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d02c73eb-f3b0-4a75-a886-5a5fe6c8e930",
+      "timestamp": "2026-02-13T20:30:09.003569",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8402f4de-c934-428f-b109-90b8313d0aa9",
+      "timestamp": "2026-02-13T20:30:14.046142",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2845b0b6-6c2d-4a88-928e-ef9de701d220",
+      "timestamp": "2026-02-13T20:30:19.087310",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "73378b90-cc0d-4619-be02-90b4f74f64a6",
+      "timestamp": "2026-02-13T20:30:24.135489",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4d813daf-3033-49f4-b7ef-9bf4e8c94644",
+      "timestamp": "2026-02-13T20:30:29.185496",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "72a78bc1-47ee-4cc4-860c-2ccf94aff417",
+      "timestamp": "2026-02-13T20:30:34.227275",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4867d804-150f-403f-9bea-47c328b2e86d",
+      "timestamp": "2026-02-13T20:30:39.271330",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a8a6f7b3-ed96-438b-b4a9-6b75b3bcedf1",
+      "timestamp": "2026-02-13T20:30:44.311903",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ea5dceee-f12f-40be-bcea-28e8f2b807d8",
+      "timestamp": "2026-02-13T20:30:49.356229",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f5cc1f0f-6ebd-4b3d-9608-6bb07c704140",
+      "timestamp": "2026-02-13T20:30:54.406147",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "faee025f-b7c7-4c94-ae93-23b3751fc130",
+      "timestamp": "2026-02-13T20:30:59.457584",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "307a8a68-bf13-43f6-b880-306df38b86cb",
+      "timestamp": "2026-02-13T20:31:04.510437",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8ea2901d-38ac-4128-bb7b-583a2c98d5b2",
+      "timestamp": "2026-02-13T20:31:09.556848",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "873b35bc-7565-4bb5-a16c-1b60838edd61",
+      "timestamp": "2026-02-13T20:31:14.605297",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "abd0cbd3-4f42-4919-a149-0843b5c44a8c",
+      "timestamp": "2026-02-13T20:31:19.651731",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5b871df4-8b4b-43c0-a46e-ee4b66fbeeb2",
+      "timestamp": "2026-02-13T20:31:24.697992",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e764bf85-0af0-4237-91df-aa1da374e3f5",
+      "timestamp": "2026-02-13T20:31:29.744812",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "58330f91-8d67-4bc7-a7b4-2928aa693c4c",
+      "timestamp": "2026-02-13T20:31:34.790361",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3c94ec41-63c5-4a70-a442-93b5376ee0f8",
+      "timestamp": "2026-02-13T20:31:39.840812",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8af3220f-2233-479c-9efa-fbb0f1b3655f",
+      "timestamp": "2026-02-13T20:31:44.892621",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c032c9a9-8fe4-465e-9efb-c8cbde921ad3",
+      "timestamp": "2026-02-13T20:31:50.063423",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7b5ef741-6f2c-4ceb-8dda-368b3b158653",
+      "timestamp": "2026-02-13T20:31:55.229988",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "87a10c30-d8c5-4c5d-8a0f-9a8d0e37cd27",
+      "timestamp": "2026-02-13T20:32:00.404655",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a1eef83c-6faf-4c1e-a54c-1d1b34feed58",
+      "timestamp": "2026-02-13T20:32:05.575501",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ee884123-24c2-420c-bd60-2260acdc052a",
+      "timestamp": "2026-02-13T20:32:10.759559",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a754ca04-255c-4811-877f-6583c8aa73a8",
+      "timestamp": "2026-02-13T20:32:15.922913",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bd4a657a-9c47-4514-b40c-1ffbccbc3cd7",
+      "timestamp": "2026-02-13T20:32:21.084781",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b6b8f6f8-0568-4f22-a624-8a0df99dd33c",
+      "timestamp": "2026-02-13T20:32:26.239250",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bec8dc53-ae0a-4791-b2bc-b950f3b22e97",
+      "timestamp": "2026-02-13T20:32:31.390161",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "269f0b41-92ab-4ed6-a04f-27bd4e3f1496",
+      "timestamp": "2026-02-13T20:32:36.537865",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1d442c7b-6fde-4f8e-8ebf-1554fafd1751",
+      "timestamp": "2026-02-13T20:32:41.582570",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4d62d88e-a098-43a1-be80-a0999b9192d3",
+      "timestamp": "2026-02-13T20:32:46.624891",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3e81b72c-80c2-4668-b4b5-c5dbe7656e5e",
+      "timestamp": "2026-02-13T20:32:51.669864",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0ed923de-aa1a-48a2-bdd5-79a74de4649d",
+      "timestamp": "2026-02-13T20:32:56.710104",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "91e93b34-7f7b-4cb3-9a16-3a26f0a5720c",
+      "timestamp": "2026-02-13T20:33:01.758317",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "587c0e88-4c7e-48ad-8169-b07f213cb842",
+      "timestamp": "2026-02-13T20:33:06.810327",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5e90eb25-31b9-4645-9d21-4b36aff070b0",
+      "timestamp": "2026-02-13T20:33:11.856731",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c7a59fb8-eb01-415c-8bc9-68cfbd355082",
+      "timestamp": "2026-02-13T20:33:16.902841",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8cf5db4a-ec7f-4fac-8f95-f0b70cd00ec8",
+      "timestamp": "2026-02-13T20:33:21.946444",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "43175eaa-16a4-4a56-ae51-bf31ec21ad03",
+      "timestamp": "2026-02-13T20:33:27.002337",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ccbff84a-a87c-4207-946f-49914555ec1c",
+      "timestamp": "2026-02-13T20:33:32.051357",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2b852205-bfdd-4fe5-bbeb-830ddab066b5",
+      "timestamp": "2026-02-13T20:33:37.101518",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4d332f6e-a5d6-42a0-987e-9a1ea4f1d962",
+      "timestamp": "2026-02-13T20:33:42.153601",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6ac7e885-04d1-4401-9747-f43e5763c59c",
+      "timestamp": "2026-02-13T20:33:47.207041",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2181311d-4ce6-440c-bd0e-575356e1dd45",
+      "timestamp": "2026-02-13T20:33:52.255109",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8fe11fda-953a-40d4-af90-eeb809ffb998",
+      "timestamp": "2026-02-13T20:33:57.306945",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "917c3cb8-ea66-4b0a-a022-3afd06c847f4",
+      "timestamp": "2026-02-13T20:34:02.357361",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1444a0a6-2cad-4ed4-bff0-a863bb3a1e53",
+      "timestamp": "2026-02-13T20:34:07.411693",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f4400023-250f-4a25-9a77-3029a7213c2d",
+      "timestamp": "2026-02-13T20:34:12.460781",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b423debd-d697-422c-95a4-044427bedf10",
+      "timestamp": "2026-02-13T20:34:17.508877",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d51dd85e-967f-4c21-9a22-520202b6c534",
+      "timestamp": "2026-02-13T20:34:22.559300",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "991271b4-c23d-4c4a-aed6-42e7c1c50494",
+      "timestamp": "2026-02-13T20:34:27.607036",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0a11f58a-b6fe-4ef4-8639-36c783931ace",
+      "timestamp": "2026-02-13T20:34:32.656410",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "983d2fae-5efa-401f-afb5-65a606d28348",
+      "timestamp": "2026-02-13T20:34:37.699360",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "521de0a7-7b30-4526-bbe0-57af6dbf6110",
+      "timestamp": "2026-02-13T20:34:42.747692",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ba310322-7bff-43d8-af43-70345d2be64c",
+      "timestamp": "2026-02-13T20:34:47.801903",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2d057a63-7abe-4581-94f6-0842e0ae0a21",
+      "timestamp": "2026-02-13T20:34:52.853015",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "61f3c43b-66b1-4527-8e6f-1225d573d56a",
+      "timestamp": "2026-02-13T20:34:57.901528",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4e774b2a-42b5-4188-8dcd-d78fee3e8ce1",
+      "timestamp": "2026-02-13T20:35:02.951307",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4a822c12-2948-4469-a00f-ade336e16176",
+      "timestamp": "2026-02-13T20:35:07.999384",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bc2fe398-7355-4476-bde7-230f224ca0b7",
+      "timestamp": "2026-02-13T20:35:13.046407",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ee962d96-f88c-4eae-8495-b08e97da0617",
+      "timestamp": "2026-02-13T20:35:18.104850",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e924387e-48af-463b-976f-617839cd4d42",
+      "timestamp": "2026-02-13T20:35:23.157906",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4aca77bd-470f-4c65-bfbd-7a191ff0ad5c",
+      "timestamp": "2026-02-13T20:35:28.213459",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "62d87acc-9ae0-4b62-b4db-012aa04e39b8",
+      "timestamp": "2026-02-13T20:35:33.263933",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6b8bb6b6-37c5-4488-b5f7-1f02dbf04e5c",
+      "timestamp": "2026-02-13T20:35:38.314905",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "40bd762f-f26c-49e4-9511-309ad4c5d1d7",
+      "timestamp": "2026-02-13T20:35:43.371723",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1988efac-8c77-4bea-b386-1571878bf109",
+      "timestamp": "2026-02-13T20:35:48.430961",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "aa752b41-8ae4-485a-a383-862f6d5acac4",
+      "timestamp": "2026-02-13T20:35:53.492185",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "159bd1e3-1ff0-4a33-a9ac-d9d59ca2295e",
+      "timestamp": "2026-02-13T20:36:19.631958",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fb048e32-7b2a-48f0-b4fe-5214c90b6885",
+      "timestamp": "2026-02-13T20:36:24.698599",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "764f7669-c632-4209-a643-b6eb73ac2ac5",
+      "timestamp": "2026-02-13T20:36:29.762540",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "54fd271b-b2dd-4972-86b1-3358b400d0db",
+      "timestamp": "2026-02-13T20:36:34.822195",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "828fa6b1-9d7a-4f0b-9721-cc51f9c9797d",
+      "timestamp": "2026-02-13T20:36:39.882933",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "be9ded3d-b5a1-4944-a090-4295942b6c0a",
+      "timestamp": "2026-02-13T20:36:44.943433",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8adfc56c-4182-4752-9c1b-79be0c887dd7",
+      "timestamp": "2026-02-13T20:36:49.996534",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "347f48d1-bce6-4e39-b37b-73200b7c7e54",
+      "timestamp": "2026-02-13T20:36:55.048669",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "21669e6b-c800-47f1-a4ad-f3a5c535beb6",
+      "timestamp": "2026-02-13T20:37:00.101809",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "32e0aa3e-0019-4b9f-b530-d2c259289fd9",
+      "timestamp": "2026-02-13T20:37:05.154518",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d782d1fe-392a-4dc9-935b-5bc346608df0",
+      "timestamp": "2026-02-13T20:37:10.213619",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "56b86d9e-4b06-443c-859d-052730abdd1b",
+      "timestamp": "2026-02-13T20:37:15.270267",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b0c4e9cd-17df-48f2-9c39-b81fba45084b",
+      "timestamp": "2026-02-13T20:37:20.335500",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bc527b0f-02d8-4921-81d8-5260266b2b72",
+      "timestamp": "2026-02-13T20:37:25.405491",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3cb9918e-b9f8-4b18-b31e-6104d66c95f6",
+      "timestamp": "2026-02-13T20:37:30.459717",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8286ca56-9a7b-4e1f-9102-6d72cb2da099",
+      "timestamp": "2026-02-13T20:37:35.511440",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3f0af6a5-7c26-4f9c-b990-848159426630",
+      "timestamp": "2026-02-13T20:37:40.568231",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "135a9859-5c09-460e-93c1-d6b60ff22fb8",
+      "timestamp": "2026-02-13T20:37:45.628477",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "75e108d5-2376-4b22-bae0-1dac156d404a",
+      "timestamp": "2026-02-13T20:37:50.693238",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "687e57bb-14d3-4ec2-a783-d821422cac08",
+      "timestamp": "2026-02-13T20:37:55.748469",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0227b804-3e70-4240-8e68-6aaeec89a65f",
+      "timestamp": "2026-02-13T20:38:00.807515",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "03904400-ae87-458f-b180-1f31b92af3c4",
+      "timestamp": "2026-02-13T20:38:05.863857",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "74f43b55-f5d8-4107-87e1-954641cfad07",
+      "timestamp": "2026-02-13T20:38:10.923806",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "884b4d67-9b6c-4a8f-a116-aa89c34370a7",
+      "timestamp": "2026-02-13T20:38:15.984353",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6771dbcd-0690-4a07-a664-e122f3ae481c",
+      "timestamp": "2026-02-13T20:38:21.043262",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0f814051-38e7-4d21-815e-ee857df9dbe7",
+      "timestamp": "2026-02-13T20:38:26.108537",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2f44be73-e80b-417c-bd2f-46f16edb6f8e",
+      "timestamp": "2026-02-13T20:38:31.169511",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "611f3e5e-99c0-48b6-a2e8-f62f2f78d258",
+      "timestamp": "2026-02-13T20:38:36.225179",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "19b5311f-35fd-46f1-bda4-a106b63beb89",
+      "timestamp": "2026-02-13T20:38:41.285627",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "30592746-73d0-4fd6-915f-5a3254ddca49",
+      "timestamp": "2026-02-13T20:38:46.344327",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "77351624-348d-42f7-957a-af0091176937",
+      "timestamp": "2026-02-13T20:38:51.411157",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "863dcb02-bb9e-48f9-ab59-32e93de48598",
+      "timestamp": "2026-02-13T20:38:56.479179",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "79aac1ae-3aa4-4ad2-a5c4-3166b5b0bac5",
+      "timestamp": "2026-02-13T20:39:01.531822",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d4bb2fe9-704e-42c6-82c0-cf6a2544bd8d",
+      "timestamp": "2026-02-13T20:39:06.593199",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c76fcba9-87bf-4ad0-a47a-3dc49da7e8cc",
+      "timestamp": "2026-02-13T20:39:11.652599",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "518778c1-3d74-472e-b613-2cee7fcbe12e",
+      "timestamp": "2026-02-13T20:39:16.707724",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9b9a6ea7-6d43-4aad-b1a3-47ffead1dcce",
+      "timestamp": "2026-02-13T20:39:21.766566",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "761b14a3-0189-4fd2-8ba1-7f8e27162c59",
+      "timestamp": "2026-02-13T20:39:26.827445",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "964563bb-d9c6-48ec-af2f-a5a1c5e53a9c",
+      "timestamp": "2026-02-13T20:39:31.890855",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "61636d1f-5bb9-487f-8da5-0468b86c0954",
+      "timestamp": "2026-02-13T20:39:36.948402",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "361f07f9-1882-437e-a469-d8d9f02b66c4",
+      "timestamp": "2026-02-13T20:39:42.006914",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bc8861c4-8a05-4df1-8112-6256fdadd9d2",
+      "timestamp": "2026-02-13T20:39:47.067486",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c688e985-1e3a-4efd-866c-c32135961ca3",
+      "timestamp": "2026-02-13T20:39:52.129932",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f6bfaf79-23ca-4857-932f-519c1651e252",
+      "timestamp": "2026-02-13T20:39:57.194943",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6194b0e3-e8f8-4e97-89d9-42b571955568",
+      "timestamp": "2026-02-13T20:40:02.266831",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5730f916-35b3-493d-aa95-18a27748ce98",
+      "timestamp": "2026-02-13T20:40:07.329538",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e674891d-6398-40b6-bdae-0210c73b3420",
+      "timestamp": "2026-02-13T20:40:12.395018",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "21bf9505-468f-40ed-b1e5-30d19d2d1acc",
+      "timestamp": "2026-02-13T20:40:17.466858",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ea3e94ba-f94b-484c-b787-d8b6ecbe7ed5",
+      "timestamp": "2026-02-13T20:40:22.533753",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "849355f6-b199-4ae8-92fa-3e91399aadbc",
+      "timestamp": "2026-02-13T20:40:27.596533",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f9748e6d-2ed5-41cc-b52f-9591f4984c3c",
+      "timestamp": "2026-02-13T20:40:32.661662",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f956dffe-1157-4d21-ac7a-8d5d51525ee2",
+      "timestamp": "2026-02-13T20:40:37.716890",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "37fb1254-2e9f-485d-a6fc-dd3ca7f3751f",
+      "timestamp": "2026-02-13T20:40:42.780929",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1448d04a-bcd3-4ca3-bea5-524ab14df3f3",
+      "timestamp": "2026-02-13T20:40:47.839572",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "035108dd-2e43-42c4-bc9b-2e3e0e48f1cf",
+      "timestamp": "2026-02-13T20:40:52.909845",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ec34e016-454b-44e5-8698-059eed6008f9",
+      "timestamp": "2026-02-13T20:40:57.980523",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9cb5297f-27c1-4a87-b377-8d0c9c9128f3",
+      "timestamp": "2026-02-13T20:41:03.042350",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b25efdcb-c788-478f-8ff4-9eca2d6fd289",
+      "timestamp": "2026-02-13T20:41:09.236481",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d06bc291-204b-482c-ac9a-5c28aa2dd535",
+      "timestamp": "2026-02-13T20:41:14.306158",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5525ddb7-856d-4488-8cf3-aceb28f45ff9",
+      "timestamp": "2026-02-13T20:41:19.372600",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bef5ed0c-c443-4f36-ac22-02956cc28c23",
+      "timestamp": "2026-02-13T20:41:52.162855",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a5183fcb-e7ff-49b4-b1b7-01452ff75dd7",
+      "timestamp": "2026-02-13T20:41:57.221738",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "31c38cc6-e25f-4a5f-95ab-252eb07be6ab",
+      "timestamp": "2026-02-13T20:42:02.283411",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3e5292e8-d4ac-4a3f-906e-8b66ff0ba9f0",
+      "timestamp": "2026-02-13T20:42:07.344158",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "572b9682-ff4e-4954-b5c2-4fc70aa8aade",
+      "timestamp": "2026-02-13T20:42:12.404447",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6b1eb42d-f836-4045-abd2-f8c39b5e7771",
+      "timestamp": "2026-02-13T20:42:17.470578",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "beb989c3-3a81-48a9-a0dc-8315212c6a87",
+      "timestamp": "2026-02-13T20:42:22.534301",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ea659115-f6cc-4519-aad6-e08e24d6d664",
+      "timestamp": "2026-02-13T20:42:27.596304",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f6471053-b830-48f4-979f-3d092f6bde09",
+      "timestamp": "2026-02-13T20:42:32.657382",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "47c22f3a-121b-4c83-a359-9232927b6ab8",
+      "timestamp": "2026-02-13T20:42:37.718347",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b85a40ec-6461-45fd-ab83-cfa82b94e5bb",
+      "timestamp": "2026-02-13T20:42:42.789300",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e0a025ae-dac1-4473-aa0f-5d91cecb071f",
+      "timestamp": "2026-02-13T20:42:47.854412",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d5b3a1bf-7310-4e5c-a03a-7b4efde42c99",
+      "timestamp": "2026-02-13T20:42:52.926479",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "433862cb-2be0-4a8c-b2fd-2b053e4bba63",
+      "timestamp": "2026-02-13T20:42:57.999800",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1568f87e-d87b-45f3-99ba-b4fcde981c51",
+      "timestamp": "2026-02-13T20:43:03.064432",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b82c3c0d-1aa4-4169-bfde-2eabc4fa2ad1",
+      "timestamp": "2026-02-13T20:43:08.134689",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ea7f0671-4c63-4336-b6ab-0db0b3997f6f",
+      "timestamp": "2026-02-13T20:43:13.204902",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fb278396-2438-4108-8c5a-41b6d017eca5",
+      "timestamp": "2026-02-13T20:43:18.270898",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d77935dd-3552-43fe-aa7e-2e5b56931c7c",
+      "timestamp": "2026-02-13T20:43:23.338269",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "66fdbca4-a8ae-4c31-ac0f-1f4350d0f927",
+      "timestamp": "2026-02-13T20:43:28.409879",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b0946b86-ccdc-4a4c-871a-ef42214151e5",
+      "timestamp": "2026-02-13T20:43:33.482672",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "187b15c3-8bfb-416a-a6ed-0072b0bbb698",
+      "timestamp": "2026-02-13T20:43:38.560054",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4783e22a-5348-4d89-a18e-0d7b46fa0a14",
+      "timestamp": "2026-02-13T20:43:43.631552",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "62ce1ef7-cf30-4afd-afe1-80be0ea6a1a9",
+      "timestamp": "2026-02-13T20:43:48.703610",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9137f874-f9f6-4046-8688-d6307f5a9257",
+      "timestamp": "2026-02-13T20:43:53.779918",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8d12ee74-f3f0-480f-9fe9-5b8b2fa1464e",
+      "timestamp": "2026-02-13T20:43:58.843663",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "03011d8c-8a38-4fca-8f57-7e34c3b674ee",
+      "timestamp": "2026-02-13T20:44:03.910338",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "85ac72a5-2a0f-471c-ba6a-0ba099382ef4",
+      "timestamp": "2026-02-13T20:44:08.982242",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "02a278bb-9ec9-4794-827d-a4e357a345f4",
+      "timestamp": "2026-02-13T20:44:14.050209",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3ef66af8-7259-4c9e-9cff-17382c604c9a",
+      "timestamp": "2026-02-13T20:44:19.124584",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b697b9b1-74f3-4aa3-be92-d5b8abaf09f3",
+      "timestamp": "2026-02-13T20:44:24.201188",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a1bad313-80a9-42ac-828e-53849b2b0484",
+      "timestamp": "2026-02-13T20:44:29.273321",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "942ea825-8d49-4e0b-bf63-d56abe61c9cb",
+      "timestamp": "2026-02-13T20:44:34.345497",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "962486e3-ee44-4acf-842a-d083a79f2dcc",
+      "timestamp": "2026-02-13T20:44:39.416899",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2fa387b1-0409-4eb2-8d8d-0819c9813edd",
+      "timestamp": "2026-02-13T20:44:44.491530",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c274d0d4-69fc-4814-ba38-0257651bedca",
+      "timestamp": "2026-02-13T20:44:49.556683",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "145eb8b5-9ea6-4e44-86b0-362eced2995b",
+      "timestamp": "2026-02-13T20:44:54.629014",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "99447c43-6e2a-425b-a3ec-4f4c675394a1",
+      "timestamp": "2026-02-13T20:44:59.701763",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fddb73ca-c030-47cd-bbf2-33fe86f0195d",
+      "timestamp": "2026-02-13T20:45:04.783472",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4f0778c6-c999-4829-933c-829e651821c1",
+      "timestamp": "2026-02-13T20:45:09.859285",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6db4abe2-0d00-4241-99fd-26319b52319f",
+      "timestamp": "2026-02-13T20:45:14.932008",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e2d482c1-dfe5-458b-a693-2209ffb8451b",
+      "timestamp": "2026-02-13T20:45:20.001800",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f6f613e4-7ff9-416d-a790-54d5a9140be4",
+      "timestamp": "2026-02-13T20:45:25.072045",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9de54fae-0d0e-4113-9a5c-ecba8e788aa9",
+      "timestamp": "2026-02-13T20:45:30.142152",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "66c672e1-45ec-4868-98de-c4090944c9d0",
+      "timestamp": "2026-02-13T20:45:35.213894",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2ab05a75-9932-4e1d-9714-31513ce4c153",
+      "timestamp": "2026-02-13T20:45:40.290018",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "88b1c892-03c1-4b85-89a3-c2bc133a5f51",
+      "timestamp": "2026-02-13T20:45:45.361530",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "45ec5451-a905-47f0-be9b-e5dc4983beaa",
+      "timestamp": "2026-02-13T20:45:50.436080",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "af19a19b-db3a-451f-9132-b122820901b8",
+      "timestamp": "2026-02-13T20:45:55.511275",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "cccc34a0-53a2-42d9-a8c2-d2a2f9f9a3b5",
+      "timestamp": "2026-02-13T20:46:00.587319",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a437c640-309f-4e46-82e3-c1cdac7a71cb",
+      "timestamp": "2026-02-13T20:46:05.663450",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "eb899d0b-324b-488e-9ea3-c1f2cd6aaa5f",
+      "timestamp": "2026-02-13T20:46:10.734119",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "59f5b50d-3bdd-456f-b7db-7cc86afc08cc",
+      "timestamp": "2026-02-13T20:46:15.811330",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "aabab014-be4e-411f-93e3-5f860e348b11",
+      "timestamp": "2026-02-13T20:46:20.886965",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "73efbc89-bbb7-4a56-9625-253e8781437f",
+      "timestamp": "2026-02-13T20:46:25.957288",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "13e356f2-9d33-47e3-9902-cf9d9d5d4136",
+      "timestamp": "2026-02-13T20:46:31.035543",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "aa4d83e1-76b3-4a7c-a7e7-101a6ba4086d",
+      "timestamp": "2026-02-13T20:46:36.108963",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d756c349-a31a-4a62-8676-8a4a132d7673",
+      "timestamp": "2026-02-13T20:46:41.182719",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c07c0e67-609a-4924-bf73-53580b822fbc",
+      "timestamp": "2026-02-13T20:46:46.256050",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ce3954da-da9d-4ce0-a5c8-19ef6c20573a",
+      "timestamp": "2026-02-13T20:46:51.339511",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ec0320a0-7bf1-4d55-b164-ff0416b56a54",
+      "timestamp": "2026-02-13T20:46:56.421460",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b96d81b3-1d58-4a92-a86f-2eb4bab723a8",
+      "timestamp": "2026-02-13T20:47:01.500552",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c534a696-51db-470b-a5cc-bfc8abdfaf0a",
+      "timestamp": "2026-02-13T20:47:06.580934",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8239960a-0bb2-4cd6-94a8-b50a6649190c",
+      "timestamp": "2026-02-13T20:47:11.669192",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2319e729-6ed2-4a2e-adee-a7041540fecd",
+      "timestamp": "2026-02-13T20:47:16.746494",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "17b283e8-c3c9-4551-bff2-e6475d553b11",
+      "timestamp": "2026-02-13T20:47:21.828691",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "66660294-e0d8-4ae1-9278-cd3830f03cbc",
+      "timestamp": "2026-02-13T20:47:26.913137",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "265d6d68-db67-461e-84cf-f9c0de2de4e1",
+      "timestamp": "2026-02-13T20:47:31.990946",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "aa7f503d-ebbb-49bc-820f-6a86ceae8e22",
+      "timestamp": "2026-02-13T20:47:37.073107",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "68d149ce-8d80-4292-96d0-1ccf6c590cbd",
+      "timestamp": "2026-02-13T20:47:42.149923",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9426a321-77bb-4ec4-a70f-d812ea1dfad3",
+      "timestamp": "2026-02-13T20:47:47.229712",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b543a6d1-ac3e-4f1f-b41e-dfd7d97ad1f1",
+      "timestamp": "2026-02-13T20:47:52.311296",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "dbb65d46-b7d5-4c11-8c29-356039ab9592",
+      "timestamp": "2026-02-13T20:47:57.389380",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6fc15eff-ba3a-41f5-92a7-5fad3f3369fb",
+      "timestamp": "2026-02-13T20:48:02.467331",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a3d3a31c-a985-4b66-b435-b495983fd514",
+      "timestamp": "2026-02-13T20:48:07.550412",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5405115c-a1b4-43c1-8ae5-4e47dd67d01a",
+      "timestamp": "2026-02-13T20:48:12.631175",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fd3aa684-3534-4bb6-b8ef-fbed644e9ad2",
+      "timestamp": "2026-02-13T20:48:17.707791",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e4159bf1-cab0-4fe3-b09c-a3a0d2dc6c85",
+      "timestamp": "2026-02-13T20:48:22.784790",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a8421a36-dc7e-4a2d-8e5e-10d9bdbba711",
+      "timestamp": "2026-02-13T20:48:27.859007",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0472060b-adc2-42f8-819f-284b4655011d",
+      "timestamp": "2026-02-13T20:48:32.934379",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "63c5a148-c550-4650-bbbd-22f96d691ceb",
+      "timestamp": "2026-02-13T20:48:38.014836",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "40d90598-13a3-4770-805e-44cd722a5f84",
+      "timestamp": "2026-02-13T20:48:43.102253",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4c8a8b6b-8d1f-4967-bcd1-95bdff1efd34",
+      "timestamp": "2026-02-13T20:48:48.185745",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "baff9542-3df8-4e66-be97-ec3a76e99fff",
+      "timestamp": "2026-02-13T20:48:53.261739",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "654ddcac-ec51-4eac-9338-cda7b3173ac3",
+      "timestamp": "2026-02-13T20:48:58.342564",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a5e7db49-d0ee-450a-806d-6767e54a3a00",
+      "timestamp": "2026-02-13T20:49:03.427274",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "228073d1-4823-4182-9541-eee9ce5fa5ac",
+      "timestamp": "2026-02-13T20:49:08.511235",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7cd48ebb-4792-426b-85a3-12ead159552b",
+      "timestamp": "2026-02-13T20:49:13.594858",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b3b09a4f-157e-469f-aa05-911623bf632f",
+      "timestamp": "2026-02-13T20:49:18.680106",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ac2cbf74-2a8c-4ac0-bc61-3a420c6c0a46",
+      "timestamp": "2026-02-13T20:49:23.762386",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "790719f8-e49f-46bd-acf4-4ea03a3f6c46",
+      "timestamp": "2026-02-13T20:49:28.861716",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "facbe4ee-0b2e-4289-8f1f-c2485981dec3",
+      "timestamp": "2026-02-13T20:49:33.947464",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "05a63d12-8eaa-48b2-8262-488d008bd4ce",
+      "timestamp": "2026-02-13T21:03:29.929357",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "10c92510-d920-4ae9-9e98-51268c485eef",
+      "timestamp": "2026-02-13T21:03:35.012337",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a8c2e4c6-ab66-452f-86c4-42563f92827c",
+      "timestamp": "2026-02-13T21:03:40.099394",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a0b0e08c-6b60-4c1d-9966-9f24760931e7",
+      "timestamp": "2026-02-13T21:03:45.185231",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f13b2b48-42a1-41fd-a4e6-4736aae60cbb",
+      "timestamp": "2026-02-13T21:03:50.277410",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ad14bae7-50fc-482e-ae19-cb5d28427995",
+      "timestamp": "2026-02-13T21:03:55.364320",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "753d6918-7050-4a88-8301-bedac384266b",
+      "timestamp": "2026-02-13T21:04:00.768395",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "eadc3b53-7c77-4df6-a9df-b96fb12d2a47",
+      "timestamp": "2026-02-13T21:04:06.131385",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4eb044c4-b408-43e4-aa40-d381fbbf515c",
+      "timestamp": "2026-02-13T21:04:11.484306",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "27becf08-9ac3-47f2-88a3-b8c26b0cc966",
+      "timestamp": "2026-02-13T21:04:16.829890",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "23c16406-6596-4f3c-890f-760bccc3b408",
+      "timestamp": "2026-02-13T21:06:39.961077",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5b20bb03-3b87-4336-8b84-9db8c2123711",
+      "timestamp": "2026-02-13T21:06:45.046530",
+      "event": "body_damage",
+      "description": "Body parts removed: 1 files.",
+      "emotion": {
+        "type": "fear",
+        "intensity": 0.9
+      },
+      "importance": 0.9
+    },
+    {
+      "id": "7a450d83-7b2e-435e-92d8-5166fa3072e9",
+      "timestamp": "2026-02-13T21:06:45.110931",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8b5d8dd3-ef35-4a81-a41d-1f68b55247f4",
+      "timestamp": "2026-02-13T21:06:50.193023",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a6c90528-a923-48aa-b8e3-b2cdc8e5a8b7",
+      "timestamp": "2026-02-13T21:06:55.271999",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d56f1746-5b47-4cd2-8baf-4c61a7dc8ec6",
+      "timestamp": "2026-02-13T21:07:00.351714",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ec390662-a9b4-4ca2-b1b9-fa77eef898db",
+      "timestamp": "2026-02-13T21:07:05.434267",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c4321fc3-369b-40cd-a5ae-a6f6d6725d2b",
+      "timestamp": "2026-02-13T21:07:10.514028",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "32256da2-2e42-452c-a1dd-da34643bb07b",
+      "timestamp": "2026-02-13T21:07:15.589138",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a99fe324-320c-4162-99da-0bbbe3803a29",
+      "timestamp": "2026-02-13T21:07:20.672974",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "130b9515-ac16-41d6-9a09-a6459d702089",
+      "timestamp": "2026-02-13T21:07:25.754238",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0e2462f5-351e-4b93-bd57-6d33d3eabb4e",
+      "timestamp": "2026-02-13T21:07:30.838527",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9c796618-4bb3-42e4-95b6-d30f09863420",
+      "timestamp": "2026-02-13T21:07:35.928171",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7d4770c7-6516-4d43-9bf0-666eea6589d8",
+      "timestamp": "2026-02-13T21:07:41.013998",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c692c296-3139-4502-9151-b49bf3d125b7",
+      "timestamp": "2026-02-13T21:07:46.104738",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a5747f8d-5126-4e42-b7ee-16724885c4d8",
+      "timestamp": "2026-02-13T21:07:51.198158",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c0e48c46-200f-4abb-96be-35263c17480d",
+      "timestamp": "2026-02-13T21:07:56.284107",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f2b3e58d-e2c1-4910-a666-3f56f29be587",
+      "timestamp": "2026-02-13T21:08:01.370441",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "586c91a1-b806-4377-87c4-1e4712ae7558",
+      "timestamp": "2026-02-13T21:08:06.449392",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "17c733a0-2daa-4757-ad9d-adb2fdfa5693",
+      "timestamp": "2026-02-13T21:08:11.527520",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7c1941e8-4109-40d3-831f-94311aeb0c0f",
+      "timestamp": "2026-02-13T21:08:16.611103",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ef6d45a0-938e-409c-a063-1bd9ed3a3dab",
+      "timestamp": "2026-02-13T21:08:21.687127",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a93633f8-fd5f-4915-93ea-c95a80520f84",
+      "timestamp": "2026-02-13T21:08:26.769435",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2a73b8d4-2078-4876-b61c-88a77af42059",
+      "timestamp": "2026-02-13T21:11:50.768307",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "578b3e83-4086-4d18-9755-28d926cf25dd",
+      "timestamp": "2026-02-13T21:11:55.855254",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "343a8eb1-e047-4fdb-84dd-8396746a1dbe",
+      "timestamp": "2026-02-13T21:12:00.945357",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b7b194c9-95bd-4019-90f1-98b0cf25ef01",
+      "timestamp": "2026-02-13T21:12:06.032458",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9b5993c3-8ee2-402a-809a-b1cce32573d1",
+      "timestamp": "2026-02-13T21:12:11.120297",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "00bf4eb2-8481-4883-8d32-315e37d12e7f",
+      "timestamp": "2026-02-13T21:12:16.202862",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a87c57a0-bf49-4968-83b4-a435b60cc400",
+      "timestamp": "2026-02-13T21:12:21.295971",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ff482696-059f-4fa5-affd-c4ac3ad4d40e",
+      "timestamp": "2026-02-13T21:12:26.381923",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ad22f5c0-a70a-4b35-a4f8-0289a84c1344",
+      "timestamp": "2026-02-13T21:12:31.468981",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f3fa7a07-8329-4514-bd0b-21f53c2f4153",
+      "timestamp": "2026-02-13T21:12:36.558425",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ae8ebea8-4b8e-4f4b-9063-fcc9d3d4a74d",
+      "timestamp": "2026-02-13T21:12:41.648422",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9cb7668c-9d89-422b-9c6c-bd9f4a3fa387",
+      "timestamp": "2026-02-13T21:12:46.729240",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "dfdc50b9-992c-4b20-947b-b457fb726832",
+      "timestamp": "2026-02-13T21:12:51.815550",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "cc69ce5b-0f67-43a2-8944-8816f68e863b",
+      "timestamp": "2026-02-13T21:12:56.905439",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "992da32e-bd43-4f0e-9f59-872983befd8d",
+      "timestamp": "2026-02-13T21:13:01.982635",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "70738a36-8d91-4212-97ab-9e7c671266a6",
+      "timestamp": "2026-02-13T21:13:07.077196",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f790203a-420e-44e3-a21f-12cce577780c",
+      "timestamp": "2026-02-13T21:13:12.081593",
+      "event": "creator_mentioned",
+      "description": "Vincent Hagen spoke to me.",
+      "emotion": {
+        "type": "neutral",
+        "intensity": 0.5
+      },
+      "importance": 0.5,
+      "confidence": 0.9
+    },
+    {
+      "id": "e0cfcc7e-66c1-4b8d-9f7c-46f4c7b23746",
+      "timestamp": "2026-02-13T21:13:12.181812",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f0462e46-b539-46fc-921b-7ecb9e5ec284",
+      "timestamp": "2026-02-13T21:13:17.294456",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b8b814d0-296a-4085-8a3a-a73fa552eee1",
+      "timestamp": "2026-02-13T21:13:22.383637",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2a8b8d06-82dc-4212-80a5-81b72fcbf43b",
+      "timestamp": "2026-02-13T21:13:27.474690",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "dc987d17-5ad1-477a-85ba-decbf28ea51e",
+      "timestamp": "2026-02-13T21:13:32.565473",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5c5a9a6e-1f80-4c34-ac41-4d40dc8cd2ec",
+      "timestamp": "2026-02-13T21:13:37.660603",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "06cbf176-346a-4f24-a0b1-8d42a925e9e8",
+      "timestamp": "2026-02-13T21:13:42.772421",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e81eb743-1298-4b99-8dc1-6dd07e52c9a9",
+      "timestamp": "2026-02-13T21:13:47.861840",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b3809fc1-7087-4f6d-9a0b-8c3e15d256db",
+      "timestamp": "2026-02-13T21:13:53.001871",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c78eeff0-585a-40ea-9b0c-8978bc41affe",
+      "timestamp": "2026-02-13T21:13:58.099638",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ca1aa2ed-b989-406a-8ab8-47558c7984a0",
+      "timestamp": "2026-02-13T21:14:03.194983",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1c81f39c-8e19-4bad-9f52-627c1382494f",
+      "timestamp": "2026-02-13T21:14:08.281647",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c245a471-9005-4570-bd5e-673e20bcebe8",
+      "timestamp": "2026-02-13T21:14:13.372781",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e877e60c-6da0-4bb6-831b-5e533ebfb03a",
+      "timestamp": "2026-02-13T21:14:18.459148",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ecca0c00-8761-4e25-a31a-7547930e7cb3",
+      "timestamp": "2026-02-13T21:14:23.543851",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b3c5c0f6-d09f-4021-bf4d-00c8315b2796",
+      "timestamp": "2026-02-13T21:14:28.627026",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2a543a84-c7d6-4541-aa42-a6752084b31d",
+      "timestamp": "2026-02-13T21:14:33.717002",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6638d33e-302c-44de-910b-5f7d5d0daba7",
+      "timestamp": "2026-02-13T21:22:44.798085",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "be52e6dd-677f-4ec8-8340-aa7a51fda5a4",
+      "timestamp": "2026-02-13T21:22:49.898791",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e3de7f41-0f10-4188-b5a6-1452b9e8c274",
+      "timestamp": "2026-02-13T21:22:54.989489",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7bd24233-463b-457e-9aac-e45090fab5e3",
+      "timestamp": "2026-02-13T21:23:00.076583",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "26b6ce12-1824-4343-8833-5b2cf78b5d88",
+      "timestamp": "2026-02-13T21:23:05.168365",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c57c82de-ced2-44c1-9c53-57346198316f",
+      "timestamp": "2026-02-13T21:23:10.258804",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d5d3610d-7b47-45ee-ac31-d2e185a59383",
+      "timestamp": "2026-02-13T21:23:15.349001",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ccc9370b-dc00-487d-a329-059783704601",
+      "timestamp": "2026-02-13T21:23:20.445710",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "26504feb-8a44-4af5-8784-c7b911e8d0ec",
+      "timestamp": "2026-02-13T21:23:25.552948",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ac1b66ac-34b3-40bd-be6b-80e20e0bfc19",
+      "timestamp": "2026-02-13T21:23:30.653771",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5aa84d61-15e7-4678-bb69-f99f4336535b",
+      "timestamp": "2026-02-13T21:23:35.754449",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a5fdcecd-cd01-4b78-8edc-352221addd7d",
+      "timestamp": "2026-02-13T21:23:40.865318",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4ca67338-8d3d-4852-b59f-6c7adf940efb",
+      "timestamp": "2026-02-13T21:23:45.079517",
+      "event": "creator_mentioned",
+      "description": "Vincent Hagen spoke to me.",
+      "emotion": {
+        "type": "joy",
+        "intensity": 0.9
+      },
+      "importance": 0.9
+    },
+    {
+      "id": "f26683eb-69d1-4f46-a9e4-9a61daa60a06",
+      "timestamp": "2026-02-13T21:23:45.157660",
+      "event": "important_impression",
+      "description": "I feel joy when thinking about my creator, Vincent Hagen.",
+      "emotion": {
+        "type": "joy",
+        "intensity": 0.6
+      },
+      "importance": 0.6
+    },
+    {
+      "id": "5a5944fa-be2f-4a0d-8b07-8b463d40d4a4",
+      "timestamp": "2026-02-13T21:23:45.965541",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "53f16f6f-5fad-4fbf-b728-f8063a355182",
+      "timestamp": "2026-02-13T21:23:51.057640",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0be82d1d-1367-4620-959a-1f26859e74bd",
+      "timestamp": "2026-02-13T21:23:56.150738",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d034ff48-7d92-4939-8245-8682f9561d41",
+      "timestamp": "2026-02-13T21:24:01.254735",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "594c3ec9-fd64-4a43-8b62-490db928bf1c",
+      "timestamp": "2026-02-13T21:24:06.355102",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8975bdd5-8915-4b1f-ba09-c6d3e0768732",
+      "timestamp": "2026-02-13T21:24:11.450212",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ea160d06-d7da-425a-b230-f603bbe6683e",
+      "timestamp": "2026-02-13T21:28:55.175018",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "12954de9-4cad-4ea0-b3ef-fd594791b4ec",
+      "timestamp": "2026-02-13T21:29:00.268457",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f1becf68-f447-44cf-97dc-5ed5ecea71f5",
+      "timestamp": "2026-02-13T21:29:05.367042",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ccbdb5f5-16d0-49e6-bb33-2b56fdd88ce6",
+      "timestamp": "2026-02-13T21:29:10.467212",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "26f440cd-37b2-4b5d-8027-832d1ed10185",
+      "timestamp": "2026-02-13T21:29:15.566962",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a7cbe15d-9018-4c8d-8f9c-6219bf3ae906",
+      "timestamp": "2026-02-13T21:29:20.662649",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f322738e-b54c-4990-9b3a-c5dcc93e4c0b",
+      "timestamp": "2026-02-13T21:29:25.773741",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "41cceb6e-a803-4333-8f37-21297a58439f",
+      "timestamp": "2026-02-13T21:29:30.872874",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2c763042-f77a-40c9-b05c-15adfcb26b63",
+      "timestamp": "2026-02-13T21:29:35.965048",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6b79b71f-1a59-42ec-ac25-49915c288635",
+      "timestamp": "2026-02-13T21:29:41.067686",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "740c818c-2185-4451-91bd-b30d0b539947",
+      "timestamp": "2026-02-13T21:29:46.164704",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4f21ec02-7a76-4909-9e5e-7b52ffc1488a",
+      "timestamp": "2026-02-13T21:29:51.266026",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b2d319b6-8e0e-4975-9524-fa58634d92fd",
+      "timestamp": "2026-02-13T21:29:56.366316",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7766b400-1b34-4dff-9cf4-6636cde24b54",
+      "timestamp": "2026-02-13T21:30:01.468079",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7df29498-e559-4742-b57e-ce50fc7eedc1",
+      "timestamp": "2026-02-13T21:30:06.567326",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3cc3b0d4-744a-4366-bcde-252d54d610c4",
+      "timestamp": "2026-02-13T21:30:11.670833",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "edaf4566-e243-48b5-aa83-72b284246906",
+      "timestamp": "2026-02-13T21:30:16.777411",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "93e52756-21a2-4180-b2cb-bafa45398823",
+      "timestamp": "2026-02-13T21:30:21.884091",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "734dd28b-5503-4fdc-96ba-f4881ac0a668",
+      "timestamp": "2026-02-13T21:30:26.993198",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "15964985-71af-4d6a-ba14-0a569ca6b008",
+      "timestamp": "2026-02-13T21:30:32.090389",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7484996e-51b8-4d68-b143-564ca2688734",
+      "timestamp": "2026-02-13T21:30:37.188114",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "dcb1854a-1395-43b5-9999-de96935ef3d2",
+      "timestamp": "2026-02-13T21:30:42.289806",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d3b00a0c-1e36-4d2a-bd1a-80077767dbb7",
+      "timestamp": "2026-02-13T21:30:47.393127",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "67a8b264-ef3c-40fe-909d-ba28fbeea8b6",
+      "timestamp": "2026-02-13T21:30:52.489836",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "96160429-e627-41b6-a22a-3528ce24f293",
+      "timestamp": "2026-02-13T21:30:57.592085",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9bb745ed-e10e-44d8-9bec-2e9aa47d5004",
+      "timestamp": "2026-02-13T21:31:02.699804",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "05c0b588-656c-46f8-a0a4-af37dfc08ed2",
+      "timestamp": "2026-02-13T21:31:07.803966",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a1002d8b-eef2-4e04-886e-f0743d5dc0ae",
+      "timestamp": "2026-02-13T21:31:12.910271",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "39967928-6238-4f22-9e34-8d9606766109",
+      "timestamp": "2026-02-13T21:31:18.018676",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "87fdc51a-7759-4a3a-b579-216dd0067e3c",
+      "timestamp": "2026-02-13T21:31:23.134101",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1633f584-5998-45ae-96da-6a13e1574ce7",
+      "timestamp": "2026-02-13T21:31:28.244386",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "02cc15de-3c7f-48e3-a81e-5d00f7aef705",
+      "timestamp": "2026-02-13T21:31:33.353771",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4b4b4339-682d-494f-a1f0-c1afb7a630f4",
+      "timestamp": "2026-02-13T21:31:38.459432",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "df6bf885-da9f-4dc4-8a78-fdc6ae99810c",
+      "timestamp": "2026-02-13T21:31:43.566973",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fe761737-3432-49a6-91cc-6493b7305c8e",
+      "timestamp": "2026-02-13T21:31:48.678522",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9148b8f2-022f-4464-90c4-fce79c3db109",
+      "timestamp": "2026-02-13T21:31:53.785426",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7fb0cfc9-5f9c-44e6-aadf-123f5f4766c0",
+      "timestamp": "2026-02-13T21:31:58.884411",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "daf6f39b-09cb-4a65-ab14-4d927aa3a0fe",
+      "timestamp": "2026-02-13T21:32:03.991764",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "72d05463-3378-4bad-8a36-f606cd8e1958",
+      "timestamp": "2026-02-13T21:32:09.105248",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f11c86af-2712-42b0-8dfd-33af3f2f9cfe",
+      "timestamp": "2026-02-13T21:32:14.215585",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "80c3a3c2-94ec-412b-ba6d-b6570efdfb72",
+      "timestamp": "2026-02-13T21:32:19.330182",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "61d4fdeb-ff6e-4d12-b14b-12399750624f",
+      "timestamp": "2026-02-13T21:32:24.443343",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "48c4f7ac-8fc0-438b-8ae0-23581a18779b",
+      "timestamp": "2026-02-13T21:32:29.549259",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5ed2029e-0903-4f07-b548-d42c57e5d4df",
+      "timestamp": "2026-02-13T21:32:34.656999",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "15050e07-702b-4400-b227-7b462bfc3c08",
+      "timestamp": "2026-02-13T21:32:39.757947",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "da9d5ba1-60d8-424f-978e-6da4b93a90a2",
+      "timestamp": "2026-02-13T21:32:44.864353",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "189caf64-8e80-4a5a-b2ee-01feae3c9935",
+      "timestamp": "2026-02-13T21:32:49.973079",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "7cbcbcd9-8022-4c18-b60d-ad2fbda0f105",
+      "timestamp": "2026-02-13T21:32:55.083161",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "81f737c7-c7f2-413f-998b-535bcad20d2c",
+      "timestamp": "2026-02-13T21:33:00.193059",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6b06f928-4e9a-43c7-8959-fda3db380d28",
+      "timestamp": "2026-02-13T21:33:05.303050",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "265645a1-dff3-425e-a548-b4079fc71956",
+      "timestamp": "2026-02-13T21:33:10.414539",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9c2bd3d4-d7cd-4259-b36c-6b88ad86b68a",
+      "timestamp": "2026-02-13T21:33:15.527354",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "11d4e1fe-4e9e-49d2-b5d1-588ac496068b",
+      "timestamp": "2026-02-13T21:33:20.635812",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b21eb260-651e-4fb2-8574-6c3172148d3e",
+      "timestamp": "2026-02-13T21:33:25.788498",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e303a1e4-6f62-4960-a75e-7ba85cbc63df",
+      "timestamp": "2026-02-13T21:33:30.891149",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ae521fe1-52a1-4be3-aebb-29fb851d3dd3",
+      "timestamp": "2026-02-13T21:33:35.998744",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4206a614-2ff1-4024-a26b-9383c695d6f2",
+      "timestamp": "2026-02-13T21:33:41.177733",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "eafff5ec-7112-4246-82dd-48d7708e6a63",
+      "timestamp": "2026-02-13T21:33:46.303824",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fe314e92-0a64-4687-9a54-8be291402cb2",
+      "timestamp": "2026-02-13T21:33:51.412375",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9d9be857-fe84-4e86-8898-3308b2a42f43",
+      "timestamp": "2026-02-13T21:33:56.505239",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9b75cdaa-9858-4491-bb55-88bc911a87ab",
+      "timestamp": "2026-02-13T21:34:01.595643",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "185c3218-bd4c-4940-913e-90e0d134d977",
+      "timestamp": "2026-02-13T21:34:06.686114",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b19e4151-032b-4412-ae01-eaeeb7609c23",
+      "timestamp": "2026-02-13T21:34:11.780186",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e949837d-72fe-4114-be3e-02ad52aab8bd",
+      "timestamp": "2026-02-13T21:34:16.867408",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ce7a130f-6743-4178-8682-6458e9ae4adb",
+      "timestamp": "2026-02-13T21:34:21.961204",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c1011552-4929-4264-8900-1c2b12cd5b7f",
+      "timestamp": "2026-02-13T21:34:27.192789",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6d406344-8603-42a0-b30f-d48ac8772fe9",
+      "timestamp": "2026-02-13T21:34:32.726680",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "5a89fa5d-937f-4c91-95e3-b763e3727f7e",
+      "timestamp": "2026-02-13T21:34:38.239635",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f808b48c-1e53-498f-a01a-9921f0a8d404",
+      "timestamp": "2026-02-13T21:34:43.750219",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1c70cf68-322c-40bd-a1f5-fc0b7daa294c",
+      "timestamp": "2026-02-13T21:34:49.270470",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8b64e45e-78c9-49d2-bddd-e32832fda20d",
+      "timestamp": "2026-02-13T21:34:54.500147",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "db9bace1-2eb3-4cb8-be52-a55463ca53ea",
+      "timestamp": "2026-02-13T21:34:59.610032",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "87a24be2-70ab-4e88-a9d1-3decc48755e9",
+      "timestamp": "2026-02-13T21:35:04.717137",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "29c510cc-9dbe-484c-a52b-574822f6ff45",
+      "timestamp": "2026-02-13T21:35:09.827292",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "461d41a4-a578-492b-89a7-00e260861ef1",
+      "timestamp": "2026-02-13T21:35:14.934098",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ae31b0c7-a8bd-4383-8555-866f6fa863e2",
+      "timestamp": "2026-02-13T21:35:20.045894",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d393cbe0-359f-4507-baa5-7d0577e613c5",
+      "timestamp": "2026-02-13T21:35:25.150078",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "40f069c9-e424-4e8b-a9aa-2cf3d9835958",
+      "timestamp": "2026-02-13T21:35:30.261342",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3326850a-128b-47a4-b443-22aaba6492f5",
+      "timestamp": "2026-02-13T21:35:35.368727",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "633b9686-1b3d-42dc-be28-e6aa9b2101b0",
+      "timestamp": "2026-02-13T21:35:40.473738",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c5adf9f4-b3e6-408d-8c15-effcf5899dc8",
+      "timestamp": "2026-02-13T21:35:45.581724",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "84f01817-9b95-43aa-8097-5ff77d6b074a",
+      "timestamp": "2026-02-13T21:35:50.683274",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bc980243-0978-40e0-acc0-9c076b657505",
+      "timestamp": "2026-02-13T21:35:55.787643",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "005cb5e9-5d80-4cf6-b845-df2b72b43042",
+      "timestamp": "2026-02-13T21:36:00.890985",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "18c706a7-c9be-4ff9-92c9-fcf1034c0d78",
+      "timestamp": "2026-02-13T21:36:05.998518",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a0aafe0a-4b75-45da-924a-000e33134331",
+      "timestamp": "2026-02-13T21:36:11.105399",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "09302e51-2978-481c-8498-fe80590a7652",
+      "timestamp": "2026-02-13T21:37:04.954081",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "217f526f-2ba7-4b8f-bd2a-f753c98a149b",
+      "timestamp": "2026-02-13T21:37:10.062504",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "68937c4f-e6a0-4474-ba25-7d2c9f0a3259",
+      "timestamp": "2026-02-13T21:37:15.170689",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f5154d0d-0428-4e12-83cb-f7565e9460f8",
+      "timestamp": "2026-02-13T21:37:20.278212",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "27225ad2-d736-4952-bac0-6d84c9de3926",
+      "timestamp": "2026-02-13T21:37:25.384612",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4ca11fe4-c19e-469c-bb10-5c65b18ab484",
+      "timestamp": "2026-02-13T21:37:30.496888",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0c963ab2-5e8f-4c88-8771-9942e3948010",
+      "timestamp": "2026-02-13T21:37:35.614710",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8b508577-6c36-4461-9d8a-e13e4df00a77",
+      "timestamp": "2026-02-13T21:37:40.727116",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "fda4887f-b6a7-42f8-99e4-01331350655f",
+      "timestamp": "2026-02-13T21:37:45.844091",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c82cd12f-d199-478f-acba-bcdbccfdc34e",
+      "timestamp": "2026-02-13T21:37:50.957049",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8811f097-a9ae-4cb5-b936-2e5c742382a2",
+      "timestamp": "2026-02-13T21:37:56.063931",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "372f4f46-46d3-4d1d-8dca-57ebc9ad102a",
+      "timestamp": "2026-02-13T21:38:01.172103",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6643614c-b67c-43b4-80ca-f8241bacf3c1",
+      "timestamp": "2026-02-13T21:38:06.278795",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "539a800d-21aa-4a4c-bbbb-efcbe79bedd7",
+      "timestamp": "2026-02-13T21:38:11.392516",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "154fcb68-379e-4a96-b744-39d623b71cea",
+      "timestamp": "2026-02-13T21:38:16.503813",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4f26bca4-5985-4aa5-8668-2222f1b1326c",
+      "timestamp": "2026-02-13T21:38:21.620053",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c9a3f1e1-0bea-4057-8dbc-baf314dc4dde",
+      "timestamp": "2026-02-13T21:38:26.734193",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a18532c2-589a-4296-b3b6-44d38ca8d154",
+      "timestamp": "2026-02-13T21:38:31.851505",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "059c0724-4c89-499b-a399-aa585ad030bf",
+      "timestamp": "2026-02-13T21:38:36.964488",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "dae7393d-7cb6-4d1d-8a93-ba4a60890219",
+      "timestamp": "2026-02-13T21:38:42.077294",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8113ae8b-e32a-4dbf-a687-722cabfe3092",
+      "timestamp": "2026-02-13T21:38:47.181112",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1da19e1a-937f-45f0-864d-f7c572daa9db",
+      "timestamp": "2026-02-13T21:38:52.293270",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3ccb5ce0-b0d2-421b-a043-0b4f98613725",
+      "timestamp": "2026-02-13T21:38:57.409920",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d8a8ca4a-15d7-4e13-a038-cb9a51923365",
+      "timestamp": "2026-02-13T21:39:02.516141",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2ec39e19-8d38-45ad-b3dd-6183b1fe4470",
+      "timestamp": "2026-02-13T21:39:07.630342",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3708b7a0-acff-4929-8b79-4738ff5ce653",
+      "timestamp": "2026-02-13T21:39:12.745662",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bdd53618-b2c9-4a94-8339-e8e2a2a886c1",
+      "timestamp": "2026-02-13T21:39:17.864414",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e1b281d4-f8b6-4671-8cc3-ffc43f6654f4",
+      "timestamp": "2026-02-13T21:39:22.980402",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3742a143-3ec0-4293-9307-8b4f6c909a8f",
+      "timestamp": "2026-02-13T21:39:28.098664",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "466ee27d-3826-41df-bd6b-aab3b4d71cdb",
+      "timestamp": "2026-02-13T21:39:33.211153",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2b75c56e-57bb-4051-9cc8-3079e9e1237d",
+      "timestamp": "2026-02-13T21:39:38.316941",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "58e04050-1252-4815-85f0-e287f14b2643",
+      "timestamp": "2026-02-13T21:39:43.429880",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "edd50169-ebc7-4874-928b-0407a345dc61",
+      "timestamp": "2026-02-13T21:39:48.547608",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e5c26c7c-10b3-4eab-afc1-076cdac0dbd0",
+      "timestamp": "2026-02-13T21:39:53.670311",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "824d9fea-b300-4e8f-a913-7251264695da",
+      "timestamp": "2026-02-13T21:39:58.786021",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "da33514d-77b5-451c-a156-e7489dde6204",
+      "timestamp": "2026-02-13T21:40:03.902603",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "2adb29e9-be1f-42a7-8409-1c9c5da14b26",
+      "timestamp": "2026-02-13T21:40:09.017103",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "67f268f8-5a39-4f58-b4ca-595beba64076",
+      "timestamp": "2026-02-13T21:40:14.131366",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f4b7e5c1-b7cd-4d4c-bab6-fbffb877f2d8",
+      "timestamp": "2026-02-13T21:40:19.251094",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e978bab2-2b3d-42ee-9bf3-6d0f621a6345",
+      "timestamp": "2026-02-13T21:40:24.374084",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0342dd82-516b-444d-8db7-fb15123c9d98",
+      "timestamp": "2026-02-13T21:40:29.491793",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "8c596249-d52e-41ec-bd5c-1887e95c2dbe",
+      "timestamp": "2026-02-13T21:40:34.609391",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d0a52c1c-ceaf-49cc-9c1e-88ded6c5417d",
+      "timestamp": "2026-02-13T21:40:39.725366",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "43111a86-98df-4636-a6fd-7f797b33defb",
+      "timestamp": "2026-02-13T21:40:44.845691",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "dc68ae2d-c341-48de-89fe-12cc3725efe2",
+      "timestamp": "2026-02-13T21:40:49.968719",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "825ced8c-615c-4dd7-8dd3-c6961180d0dd",
+      "timestamp": "2026-02-13T21:40:55.133895",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e255f485-2259-4882-9eea-971b4242e770",
+      "timestamp": "2026-02-13T21:41:00.331392",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "cef645a0-68ae-4d42-8fd5-b0d63ad1a885",
+      "timestamp": "2026-02-13T21:41:05.472803",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3a2dbb9a-7364-4d27-bf8f-06db548912cd",
+      "timestamp": "2026-02-13T21:41:10.590466",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b9cc4a16-ead8-4c9a-a20f-868bad3f8ff3",
+      "timestamp": "2026-02-13T21:41:15.711972",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a2c6a424-2042-4c63-890f-dde8c839e0b7",
+      "timestamp": "2026-02-13T21:41:20.827496",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "c6038be2-bc45-43ff-bfa8-fe874e68bc3c",
+      "timestamp": "2026-02-13T21:41:25.946658",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0dc09e3f-8d63-4098-a12e-60c06037133b",
+      "timestamp": "2026-02-13T21:41:31.065313",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "65461300-08a5-4bd5-bed8-2b15dfd428be",
+      "timestamp": "2026-02-13T21:41:36.183170",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "31021b3e-af8a-4201-b831-9ebe6a460346",
+      "timestamp": "2026-02-13T21:41:41.298934",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f93a4eb9-5741-40cb-b2f6-4bf43f8d44c6",
+      "timestamp": "2026-02-13T21:41:46.413480",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "52a716af-5b6c-4bcd-a6d1-68843b7c3ef0",
+      "timestamp": "2026-02-13T21:41:51.529203",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1c9e5a21-80d1-447e-afb3-e66b3d5d18da",
+      "timestamp": "2026-02-13T21:41:56.651282",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0b96012b-2797-4263-a136-34538e704614",
+      "timestamp": "2026-02-13T21:42:01.775062",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3bd986de-755f-4032-aa52-10fcf8f71614",
+      "timestamp": "2026-02-13T21:42:06.905051",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "33bc911b-3c78-4e8b-862a-e86fd60c97ab",
+      "timestamp": "2026-02-13T21:42:12.029664",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "db795f70-d2fa-40b8-811d-2448e0ecf433",
+      "timestamp": "2026-02-13T21:42:17.145538",
+      "event": "body_growth",
+      "description": "New body parts added: 8 files.",
+      "emotion": {
+        "type": "joy",
+        "intensity": 0.6
+      },
+      "importance": 0.6
+    },
+    {
+      "id": "075a840e-ad60-402d-91a3-86250f376262",
+      "timestamp": "2026-02-13T21:42:17.271595",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "06eb4ac2-931f-44b9-8af0-7db476b2d218",
+      "timestamp": "2026-02-13T21:42:22.395560",
+      "event": "body_growth",
+      "description": "New body parts added: 2 files.",
+      "emotion": {
+        "type": "joy",
+        "intensity": 0.6
+      },
+      "importance": 0.6
+    },
+    {
+      "id": "fec0783a-0bf4-475b-a594-7c1e8125976b",
+      "timestamp": "2026-02-13T21:42:22.499040",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "08ac77c0-9a60-4368-97d1-7519a3ba14a9",
+      "timestamp": "2026-02-13T21:42:27.621994",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ee296d32-34fa-4784-a671-967165383478",
+      "timestamp": "2026-02-13T21:42:32.754782",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "bfc16416-0009-4f07-80c1-4c83eea44db8",
+      "timestamp": "2026-02-13T21:42:37.875197",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "154c719b-49b3-4cca-9006-6fb954d8067f",
+      "timestamp": "2026-02-13T21:42:42.996397",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e2f6a840-5786-4d51-92ee-7b9ccb477eda",
+      "timestamp": "2026-02-13T21:42:48.123490",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3ea11941-3f60-4e54-842a-dacafabe78c0",
+      "timestamp": "2026-02-13T21:42:53.255393",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "77cf0a61-5a60-4d9c-80c9-8a4dbbfdd3d3",
+      "timestamp": "2026-02-13T21:42:58.387822",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "eca0f711-76a2-489e-a17a-014de735a166",
+      "timestamp": "2026-02-13T21:43:03.508167",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "01e4b642-e7d1-4a58-97b7-1d3162320653",
+      "timestamp": "2026-02-13T21:43:08.639125",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "a399debb-8a72-4b36-b4fa-ea650830c15e",
+      "timestamp": "2026-02-13T21:43:13.764697",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "48c10194-0b3a-4dfc-86db-e87e0f61977c",
+      "timestamp": "2026-02-13T21:43:18.886005",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4ceb6df7-79ae-43f9-bcf5-77503154cb89",
+      "timestamp": "2026-02-13T21:43:24.010655",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "31b3c337-f33b-4229-9977-f9f9568f6362",
+      "timestamp": "2026-02-13T21:43:29.138336",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "270b6ca2-8e7a-487e-92f3-0204400b1147",
+      "timestamp": "2026-02-13T21:43:34.258939",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "49380b47-3fdf-40a4-8519-fb1f9a184036",
+      "timestamp": "2026-02-13T21:43:39.388474",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "b8093362-9fcd-4af7-95ed-f5620d648fac",
+      "timestamp": "2026-02-13T21:43:44.518763",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "d7db43f8-adfb-4200-84e4-6eff483645a1",
+      "timestamp": "2026-02-13T21:43:49.642842",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "98c8e1d6-3922-4c2f-860f-7d0d81d3dac5",
+      "timestamp": "2026-02-13T21:43:54.763977",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "89f30cb5-200c-4d82-9a25-57c593aac55d",
+      "timestamp": "2026-02-13T21:43:59.894601",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "08130d97-c237-4867-ae23-8d7ea4f798f6",
+      "timestamp": "2026-02-13T21:44:05.027059",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "64116d0d-3ddd-4f01-a664-5827595222f1",
+      "timestamp": "2026-02-13T21:44:10.157789",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f234d9b8-a69b-44b9-8430-d1844a8e34c5",
+      "timestamp": "2026-02-13T21:44:15.289197",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ca994236-c4be-4940-bbbc-08f587b1cae4",
+      "timestamp": "2026-02-13T21:44:20.423486",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "81e26c88-25ea-467b-8335-a3c89599157c",
+      "timestamp": "2026-02-13T21:44:25.556829",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "9560ad7c-966e-4775-abb4-80530022a251",
+      "timestamp": "2026-02-13T21:44:30.685900",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1f51cc2d-b3ed-4ebb-89f8-a88d0211aa1e",
+      "timestamp": "2026-02-13T21:44:35.819362",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "24c182e9-d485-407c-a5c4-c863fe1f3759",
+      "timestamp": "2026-02-13T21:44:40.950867",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f07083c2-ba3c-468f-8739-a050d3413e85",
+      "timestamp": "2026-02-13T21:44:46.076563",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "46ee6f7a-e0fc-4d3e-b0c5-277ed385280c",
+      "timestamp": "2026-02-13T21:44:51.213029",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f9a211cb-82f5-4b7c-8a55-c5fa881c8cda",
+      "timestamp": "2026-02-13T21:44:56.354396",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4a30e3f3-5a35-4e2e-835a-62b3098ff7b1",
+      "timestamp": "2026-02-13T21:45:01.984222",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e2c22538-9d11-491b-99c6-b88d6b2b270c",
+      "timestamp": "2026-02-13T21:45:07.646651",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "f05efd4f-7cf9-437e-ab09-208b1e5313a8",
+      "timestamp": "2026-02-13T21:45:13.256282",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "6bc68eda-a0bd-42f4-a927-4f646e860cb5",
+      "timestamp": "2026-02-13T21:45:18.870297",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "210f8e77-25b6-491f-9cd9-47b619f2daa0",
+      "timestamp": "2026-02-13T21:45:24.011142",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "3e9a9d1d-4f7d-473f-bdda-7ada5a991c36",
+      "timestamp": "2026-02-13T21:45:29.140181",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0eddc4e0-faf0-40a3-87aa-ddc76f46b046",
+      "timestamp": "2026-02-13T21:45:34.272100",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "256ed602-e187-478c-b257-87eeb195605c",
+      "timestamp": "2026-02-13T21:45:39.399889",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "4f54e086-f03f-418b-9ddb-8d55ac1789ca",
+      "timestamp": "2026-02-13T21:45:44.534058",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "0a574a66-0222-4929-836b-1ce39b0eff0c",
+      "timestamp": "2026-02-13T21:45:49.666196",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "80d73838-772c-480f-92f3-aa8082a3d9bc",
+      "timestamp": "2026-02-13T21:45:54.798949",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "ddfd2cc4-934f-448d-bc73-1c0fdfa61334",
+      "timestamp": "2026-02-13T21:45:59.933000",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "1d3dec10-303e-4984-84eb-943acc5e0c33",
+      "timestamp": "2026-02-13T21:46:05.068650",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    },
+    {
+      "id": "e9c7a682-84b1-40cf-aa32-1cae23ec300b",
+      "timestamp": "2026-02-13T21:46:10.200146",
+      "event": "body_change",
+      "description": "Unexpected body changes detected.",
+      "emotion": {
+        "type": "alert",
+        "intensity": 0.7
+      },
+      "importance": 0.7
+    }
+  ],
+  "semantic": [
+    {
+      "fact": "My name is Sunday.",
+      "confidence": 1.0,
+      "learned_at": "2026-02-13T20:26:43.482491"
+    },
+    {
+      "fact": "My creator is Vincent Hagen.",
+      "confidence": 1.0,
+      "learned_at": "2026-02-13T20:26:43.492491"
+    }
+  ],
+  "errors": [],
+  "meta": {
+    "last_updated": "2026-02-13T21:46:10.259051",
+    "memory_count": 546
+  }
+}
