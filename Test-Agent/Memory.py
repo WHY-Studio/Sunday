@@ -1,48 +1,53 @@
-"""Compatibility facade over agent.memory_api."""
+"""Compatibility wrapper for the SQLite-backed memory manager."""
 
-from agent.memory_api import get_memory_api
+from memory.memory_manager import get_memory_manager
 
 NAME = "Memory"
-_api = get_memory_api()
-_metrics = {"events": 0, "health": 1.0}
-
-
-def _touch_metric():
-    _metrics["events"] += 1
-    _metrics["health"] = max(0.3, 1.0 - (_metrics["events"] * 0.005))
 
 
 def record_birth():
-    _api.record_event("birth", "Sunday runtime initialized.", source="system")
-    _touch_metric()
+    return get_memory_manager().record_birth()
 
 
-def record_event(event_type=None, description="", emotion="neutral", importance=0.5, confidence=None, source="system", **kwargs):
-    normalized_type = event_type or kwargs.get("event") or "event"
-    normalized_description = description or kwargs.get("content") or kwargs.get("description") or ""
-    _api.record_event(
-        event_type=normalized_type,
-        description=normalized_description,
+def record_event(event=None, description="", emotion="neutral", importance=0.5, **kwargs):
+    # Backward compatibility aliases
+    normalized_event = event or kwargs.get("event_type") or kwargs.get("type") or "event"
+    normalized_description = (
+        description
+        or kwargs.get("content")
+        or kwargs.get("message")
+        or kwargs.get("description")
+        or ""
+    )
+    return get_memory_manager().record_event(
+        normalized_event,
+        normalized_description,
         emotion=emotion,
         importance=importance,
-        source=source,
     )
-    _touch_metric()
 
 
-def record_fact(fact, confidence=1.0, source="system"):
-    _api.record_fact(fact=fact, confidence=confidence, source=source)
-    _touch_metric()
+def record_fact(fact, confidence=1.0, **kwargs):
+    _ = kwargs
+    return get_memory_manager().record_fact(fact, confidence=confidence)
+
+
+def update_emotion(emotion, intensity):
+    return get_memory_manager().update_emotion(emotion, intensity)
+
+
+def record_error(error, lesson):
+    return get_memory_manager().record_error(error, lesson)
 
 
 def recall(query, max_items=5):
-    return _api.recall(query=query, max_items=max_items)
-
-
-def consolidate():
-    # SQLite store is already structured; no compaction step required yet.
-    return None
+    return get_memory_manager().recall(query, max_items=max_items)
 
 
 def status():
-    return {"health": _metrics["health"], "events": _metrics["events"]}
+    return get_memory_manager().status()
+
+
+def consolidate():
+    # Kept for compatibility with sleep module.
+    return None

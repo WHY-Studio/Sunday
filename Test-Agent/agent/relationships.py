@@ -1,8 +1,10 @@
+import json
 import os
 import secrets
 
 
 TOKEN_PATH = "Storage/creator_token.txt"
+REL_PATH = "Storage/relationship_state.json"
 
 
 def ensure_creator_token(emit_log=None):
@@ -23,19 +25,30 @@ def _read_token():
         return f.read().strip()
 
 
-def load_relationship_state(store):
-    return {"state": store.get_relationship("relationship_state", "unknown")}
+def _save_rel(state: str):
+    with open(REL_PATH, "w", encoding="utf-8") as f:
+        json.dump({"state": state}, f)
 
 
-def verify_creator(token, store):
+def load_relationship_state(store=None):
+    _ = store
+    if not os.path.exists(REL_PATH):
+        return {"state": "unknown"}
+    with open(REL_PATH, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return {"state": data.get("state", "unknown")}
+
+
+def verify_creator(token, store=None):
+    _ = store
     expected = _read_token()
     if not expected:
         return False
     if str(token).strip() == expected:
-        store.set_relationship("relationship_state", "creator_verified")
+        _save_rel("creator_verified")
         return True
     return False
 
 
-def is_creator_verified(store):
-    return store.get_relationship("relationship_state", "unknown") == "creator_verified"
+def is_creator_verified(store=None):
+    return load_relationship_state(store).get("state") == "creator_verified"

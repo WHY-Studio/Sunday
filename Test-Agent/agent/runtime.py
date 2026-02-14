@@ -1,4 +1,4 @@
-from agent.identity import NAME, CREATOR
+from agent.identity import NAME
 from agent.prompt_builder import build_system_prompt
 from agent.relationships import load_relationship_state, verify_creator
 from agent.state import SundayState
@@ -25,15 +25,13 @@ class SundayRuntime:
         self.state.affect["stress"] = max(0.0, 1.0 - self.state.body["stability"])
         self.state.affect["tone"] = str(body.get("emotion", "neutral"))
         self.state.goals = self.goals.evaluate_goals()
-        self.state.relationship = load_relationship_state(self.memory_api.store)
+        self.state.relationship = load_relationship_state()
 
     def _model_reply(self, prompt):
         completion = self.model_client.chat.completions.create(
             model="llama-3.1-8b-instant",
             temperature=0.7,
-            messages=[
-                {"role": "system", "content": prompt},
-            ],
+            messages=[{"role": "system", "content": prompt}],
         )
         return completion.choices[0].message.content.strip()
 
@@ -43,7 +41,7 @@ class SundayRuntime:
 
         if text.lower().startswith("/creator "):
             token = text.split(" ", 1)[1].strip()
-            ok = verify_creator(token, self.memory_api.store)
+            ok = verify_creator(token)
             reply = "Creator verification successful." if ok else "Creator verification failed."
             self.memory_api.record_event("creator_verification", reply, source="system")
             return reply
