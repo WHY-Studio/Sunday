@@ -737,8 +737,10 @@ class SoulTab(QWidget):
 
     def load_memory(self):
         try:
-            excerpt = Memory.recall("", max_items=5)
-            self.memory_view.setText(json.dumps(excerpt, indent=2, ensure_ascii=False))
+            with open("Storage/Memory.json", "r") as f:
+                mem = json.load(f)
+                excerpt = mem.get("episodic", [])[-5:]
+                self.memory_view.setText(json.dumps(excerpt, indent=2))
         except:
             self.memory_view.setText("Memory unavailable")
 
@@ -820,7 +822,7 @@ class MainWindow(QWidget):
         event.accept()
 
     def send_to_llm(self, text: str):
-        if text.startswith("/") and not text.startswith("/creator "):
+        if text.startswith("/"):
             self.handle_command(text)
             return
         proc = self.llm_crawler_process
@@ -867,7 +869,7 @@ class MainWindow(QWidget):
             import Memory
             Memory.record_event(
                 event_type="manual_memory",
-                description=content,
+                content=content,
                 emotion="focus"
             )
             self.comm_tab.append_comm("[HEART] Memory stored.")
